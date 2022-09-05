@@ -1,0 +1,1 @@
+{"name":"Local: DoublyLL","url":"c:\\Users\\Gopal\\Desktop\\DSAImplent\\Linked_List\\DoublyLL.cpp","tests":[{"id":1662037540300,"input":"","output":"if(temp->pre!=nullptr&&temp->next!=nullptr)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Gopal\\Desktop\\DSAImplent\\Linked_List\\DoublyLL.cpp","group":"local","local":true}
