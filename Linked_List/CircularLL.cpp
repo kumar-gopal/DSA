@@ -291,7 +291,7 @@ int main()
     CircularLL CLL;
     int a[] = {1, 2, 3, 4, 5, 6, 7, 8};
     int n = sizeof(a) / sizeof(a[0]);
-    // CLL.createCLL(a, n);
+    CLL.createCLL(a, n);
     CLL.insertAtLast(1);
     CLL.insertAtLast(2);
     CLL.insertAtLast(3);
