@@ -58,7 +58,6 @@ void StackArray::push(int x)
 }
 void StackArray::createStack(int size)
 {
-    ptr = new int[capacity];
     capacity = size;
     ptr = new int[capacity];
     lastindex = -1;
